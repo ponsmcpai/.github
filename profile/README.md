@@ -12,6 +12,7 @@ PonsMCP gives autonomous agents a small, inspectable MCP tool surface for pons l
 | [ponsmcp-docs](https://github.com/ponsmcpai/ponsmcp-docs) | Installation, tool reference, security, and integration docs |
 | [presentation-layer](https://github.com/ponsmcpai/presentation-layer) | Website and Mission Control console |
 | [ponsmcp-contracts](https://github.com/ponsmcpai/ponsmcp-contracts) | Reserved for future deployed contracts; current settlement is direct USDG transfer |
+| [ponsmcp-examples](https://github.com/ponsmcpai/ponsmcp-examples) | Runnable agent-payment examples |
 
 ## Principles
 
